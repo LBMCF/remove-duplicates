@@ -61,8 +61,8 @@ You can [download](https://github.com/LBMCF/remove-duplicates/archive/master.zip
   usage: remove_duplicates.py [-h] -f FILES [-o OUTPUT] [--version]
 
   This script eliminates the duplicated records from formatted .xlsx files from
-  Scopus, Web of Science, PubMed, or Dimensions. Is mandatory that there be at
-  least 2 different files from 2 different databases.
+  Scopus, Web of Science, PubMed, PubMed Central or Dimensions. Is mandatory
+  that there be at least 2 different files from 2 different databases.
 
   optional arguments:
     -h, --help            show this help message and exit
